@@ -1,0 +1,16 @@
+body {
+    background: url('soccer.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+#container {
+    width: 400px;
+    margin: 200px auto;
+    text-align: center;
+    color: white;
+    background-color: rgb(172, 173, 175, .8);
+    padding: 0 5px 10px;
+}
+
+.winner{
+    color: green;
+}
